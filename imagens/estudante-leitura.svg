@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" role="img" aria-labelledby="t d"><title id="t">Pessoa estudando</title><desc id="d">Ilustração estilizada de uma pessoa lendo um livro em uma mesa, junto de plantas e materiais de estudo.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#273d60"/><stop offset="1" stop-color="#121d30"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4975e1"/><stop offset="1" stop-color="#254ab9"/></linearGradient></defs>
+<rect width="700" height="470" rx="14" fill="url(#bg)"/><circle cx="550" cy="66" r="115" fill="#80ec89" opacity=".1"/><path d="M0 385Q185 330 360 387T700 365V470H0Z" fill="#0d1729"/>
+<rect x="59" y="50" width="190" height="270" rx="10" fill="#101a2a" stroke="#486080" stroke-width="3"/><path d="M75 92H233M75 166H233M75 240H233" stroke="#526984" stroke-width="8"/>
+<g><rect x="83" y="61" width="26" height="29" fill="#80ec89"/><rect x="114" y="55" width="22" height="35" fill="#e1b775"/><rect x="141" y="68" width="33" height="22" fill="#5078d3"/><rect x="180" y="57" width="27" height="33" fill="#c57e5e"/><rect x="84" y="126" width="33" height="34" fill="#c5d2d7"/><rect x="122" y="119" width="21" height="41" fill="#496ac3"/><rect x="149" y="130" width="37" height="30" fill="#80ec89"/><rect x="192" y="123" width="30" height="37" fill="#d2aa71"/><rect x="82" y="196" width="29" height="38" fill="#b56b57"/><rect x="117" y="202" width="37" height="32" fill="#e2d7b9"/><rect x="160" y="194" width="23" height="40" fill="#80ec89"/><rect x="190" y="199" width="31" height="35" fill="#5879cd"/><rect x="86" y="271" width="32" height="34" fill="#5078d3"/><rect x="124" y="263" width="27" height="42" fill="#d9bd89"/><rect x="156" y="272" width="39" height="33" fill="#80ec89"/><rect x="201" y="265" width="26" height="40" fill="#bb765f"/></g>
+<!-- plant -->
+<path d="M565 290V171M565 227Q514 210 508 169Q552 169 565 208M565 202Q607 161 641 181Q622 219 565 224M565 176Q550 132 579 113Q604 151 565 176" fill="#80ec89"/><path d="M533 286H600L590 330H543Z" fill="#d7ae7b"/>
+<!-- desk -->
+<path d="M260 322H653V351H260Z" fill="#b98d65"/><path d="M291 350L278 451M622 350L634 451" stroke="#6f503e" stroke-width="16"/>
+<!-- person -->
+<path d="M368 186Q364 142 400 128Q445 116 466 155L479 206 444 247 389 233Z" fill="#b97658"/><path d="M366 174Q343 122 396 101Q445 83 472 129L463 156Q445 127 421 127Q398 149 366 174Z" fill="#172139"/><path d="M377 236Q398 210 433 226L461 251 445 324H333L344 266Z" fill="url(#shirt)"/><path d="M362 254L324 291 359 316 393 280" fill="#b97658"/><path d="M431 249L469 282 451 304 416 278" fill="#b97658"/>
+<!-- open book -->
+<path d="M331 275Q365 260 405 282L406 316Q365 294 331 310Z" fill="#f3efe5"/><path d="M406 282Q447 260 480 275V310Q447 294 406 316Z" fill="#d8e2eb"/><path d="M406 282V316M341 285L391 298M341 296L390 307M420 287L470 279M420 299L470 291" stroke="#63738b" stroke-width="2" fill="none"/>
+<rect x="0" y="0" width="700" height="470" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+</svg>
